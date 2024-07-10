@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.repository-item {
+  background-color: #f8f8ff;
+  padding: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  height: 100px;
+}
+
+.counts-container {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  color: #e73959;
+  font-size: 20px;
+}
+
+.count-image {
+  height: 20px;
+}
+
+.count {
+  margin-left: 10px;
+}
